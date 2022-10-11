@@ -8,3 +8,6 @@ We intend to learn and grow using git together :)
 
 ## issue 53
 This important issue should be fixed by removing this nonsense warning. The warning should be more polite.
+
+#footer
+This is your favorite Frontend engineer Saad Mosallam
