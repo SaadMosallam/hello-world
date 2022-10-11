@@ -4,4 +4,7 @@ it's a repository to learn how GitHub function
 I have learned how to use Command Line of git locally.<br />
 
 ## warning
-This is all for learning purposes and should not be used for commercial products.
+We intend to learn and grow using git together :)
+
+## issue 53
+This important issue should be fixed by removing this nonsense warning. The warning should be more polite.
