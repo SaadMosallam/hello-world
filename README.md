@@ -19,6 +19,8 @@ We all need to start celebrating Saturday as a holiday.
 ## Cv preparation
 For the current situation, we need to prepare our CVs to be ready for the job market.
 There's a high demand for CVs in the market.
+## Weekends
+You can even use our product on weekends.
 
 #footer
 This is your favorite Frontend engineer Saad Mosallam
