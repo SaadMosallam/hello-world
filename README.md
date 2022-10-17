@@ -15,5 +15,9 @@ We intend to learn and grow using git together :)
 ## issue 53
 This important issue should be fixed by removing this nonsense warning. The warning should be more polite.
 
+## issue 55
+The user is trying to change his preassigned username. This should be only allowed through specific UI.
+With our supervision, we will not have conflicting names.
+
 #footer
 This is your favorite Frontend engineer Saad Mosallam
