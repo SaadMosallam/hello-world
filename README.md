@@ -6,6 +6,9 @@ I have learned how to use Command Line of git locally.<br />
 ##Email
 SaadMosallam@git.com
 
+## Remote Work
+Having a github UI for adding new commits, we can do our fixes on the fly now. This is awesome!
+
 ## warning
 We intend to learn and grow using git together :)
 
