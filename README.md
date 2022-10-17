@@ -19,5 +19,5 @@ This important issue should be fixed by removing this nonsense warning. The warn
 The user is trying to change his preassigned username. This should be only allowed through specific UI.
 With our supervision, we will not have conflicting names.
 
-#footer
+## footer
 This is your favorite Frontend engineer Saad Mosallam
